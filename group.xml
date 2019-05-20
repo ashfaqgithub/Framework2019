@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="GROUP TEST">
+	<test name="Test in Chrome">
+		<groups>
+			<run>
+				<include name="smoke"></include>
+			</run>
+		</groups>
+
+
+		<classes>
+			<class name="prec.Grouping"></class>
+			<class name="prec.AnnotationPrec"></class>
+		</classes>
+
+	</test> <!-- Test -->
+</suite> <!-- Suite -->
+

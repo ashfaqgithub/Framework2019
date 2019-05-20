@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Crossbrowser test Suite" duration-ms="20163" started-at="2019-05-12T18:57:01Z" finished-at="2019-05-12T18:57:21Z">
+    <groups>
+    </groups>
+    <test name="Test in Firefox" duration-ms="10232" started-at="2019-05-12T18:57:01Z" finished-at="2019-05-12T18:57:11Z">
+      <class name="test.facebook.login.FacebookEmailPass">
+        <test-method status="PASS" signature="beforeEachTest(java.lang.String)[pri:0, instance:test.facebook.login.FacebookEmailPass@73035e27]" name="beforeEachTest" is-config="true" duration-ms="8238" started-at="2019-05-12T14:57:01Z" finished-at="2019-05-12T14:57:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ff]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="testFacebookEmailPass()[pri:0, instance:test.facebook.login.FacebookEmailPass@73035e27]" name="testFacebookEmailPass" duration-ms="643" started-at="2019-05-12T14:57:09Z" finished-at="2019-05-12T14:57:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebookEmailPass -->
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:test.facebook.login.FacebookEmailPass@73035e27]" name="afterEachTest" is-config="true" duration-ms="1328" started-at="2019-05-12T14:57:10Z" finished-at="2019-05-12T14:57:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+      </class> <!-- test.facebook.login.FacebookEmailPass -->
+    </test> <!-- Test in Firefox -->
+    <test name="Test in Chrome" duration-ms="9885" started-at="2019-05-12T18:57:11Z" finished-at="2019-05-12T18:57:21Z">
+      <class name="test.facebook.login.FacebookEmailPass">
+        <test-method status="PASS" signature="beforeEachTest(java.lang.String)[pri:0, instance:test.facebook.login.FacebookEmailPass@34033bd0]" name="beforeEachTest" is-config="true" duration-ms="6016" started-at="2019-05-12T14:57:11Z" finished-at="2019-05-12T14:57:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[cH]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeEachTest -->
+        <test-method status="PASS" signature="testFacebookEmailPass()[pri:0, instance:test.facebook.login.FacebookEmailPass@34033bd0]" name="testFacebookEmailPass" duration-ms="1434" started-at="2019-05-12T14:57:17Z" finished-at="2019-05-12T14:57:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebookEmailPass -->
+        <test-method status="PASS" signature="afterEachTest()[pri:0, instance:test.facebook.login.FacebookEmailPass@34033bd0]" name="afterEachTest" is-config="true" duration-ms="2434" started-at="2019-05-12T14:57:19Z" finished-at="2019-05-12T14:57:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterEachTest -->
+        <test-method status="PASS" signature="suiteComplete()[pri:0, instance:test.facebook.login.FacebookEmailPass@34033bd0]" name="suiteComplete" is-config="true" duration-ms="523" started-at="2019-05-12T14:57:21Z" finished-at="2019-05-12T14:57:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- suiteComplete -->
+      </class> <!-- test.facebook.login.FacebookEmailPass -->
+    </test> <!-- Test in Chrome -->
+  </suite> <!-- Crossbrowser test Suite -->
+</testng-results>
