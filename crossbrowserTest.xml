@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Crossbrowser test Suite">
+
+	<test name="Test in Firefox">
+		<parameter name="browser" value="ff"></parameter>
+		<classes>
+			<class name="test.facebook.login.FacebookEmailPass" />
+		</classes>
+	</test>
+
+	<test name="Test in Chrome">
+		<parameter name="browser" value="cH"></parameter>
+		<classes>
+			<class name="test.facebook.login.FacebookEmailPass" />
+		</classes>
+	</test>
+
+</suite> <!-- Suite -->

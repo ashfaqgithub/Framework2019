@@ -2,5 +2,35 @@
 <classpath>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/client-combined-3.8.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/client-combined-3.8.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/client-combined-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/client-combined-3.141.59-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/dom4j.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/gson-2.8.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/guava-23.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/okhttp-3.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/okio-1.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/poi-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/poi-ooxml-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/poi-ooxml-schemas-3.6-20091214.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/saxon-8.7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/SaxonLiaison.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/ashfa/Documents/GitHub/ebay/Jars/xmlbeans-2.3.0.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Regression Suite">
+  <test name="Test in Chrome">
+    <classes>
+      <class name="prec.PrecTryCatch"/>
+      <class name="prec.AnnotationPrec"/>
+      <class name="prec.PrecticeAssert"/>
+      <class name="prec.PriorityPrec"/>
+      <class name="test.facebook.login.FacebookEmailPass"/>
+      <class name="test.facebook.login.fbRadioButtonTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+
